@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Griffy');
+
+tr th{
+	text-align: center;
+}
+
+tr td{
+	text-align: center;
+}
+
+div .img-responsive{
+	 margin: 0 auto;
+}
+
+.dixittext{
+	font-family: 'Griffy', cursive;
+	font-size: 24px;
+}
